@@ -1,10 +1,9 @@
 {
-    "nombre": "socket-chat-example",
-    "versión": "0.0.1",
-    "descripción": "mi primera aplicación socket.io",
-    "dependencias": {},
-    "dependencies": {
-      "express": "^4.17.1"
-    }
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "mi primera aplicación socket.io",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
   }
-  
+}
